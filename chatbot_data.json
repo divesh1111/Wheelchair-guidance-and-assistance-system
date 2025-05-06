@@ -1,0 +1,55 @@
+[
+  {
+    "keywords": ["hello", "hi", "hey"],
+    "answer": "Hello! How can I help you with your wheelchair questions today?"
+  },
+  {
+    "keywords": ["types", "kinds", "different wheelchairs"],
+    "answer": "There are several main types of wheelchairs: Manual (like lightweight, standard, reclining, heavy-duty, sport, beach, pediatric, bathroom chairs), Power/Electric (lightweight, standard, heavy-duty, travel, standing, reclining), and Transport chairs. Which type are you interested in learning more about?"
+  },
+  {
+    "keywords": ["manual wheelchair", "manual"],
+    "answer": "Manual wheelchairs are propelled by the user or a caregiver. They come in various forms like lightweight for portability, heavy-duty for higher weight capacities, reclining for positioning, sport for activities, pediatric for children, and more. Do you have a specific type of manual wheelchair in mind?"
+  },
+  {
+    "keywords": ["power wheelchair", "electric wheelchair", "power chair"],
+    "answer": "Power wheelchairs use electric motors for propulsion, controlled via a joystick. Types include lightweight/folding for travel, standard for general use, heavy-duty for larger users, standing chairs for health benefits, and reclining chairs for positioning and pressure relief."
+  },
+  {
+    "keywords": ["transport wheelchair", "transport chair"],
+    "answer": "Transport wheelchairs are designed to be pushed by a caregiver. They are typically lighter and more compact than standard manual wheelchairs, with smaller rear wheels, making them easier to transport."
+  },
+  {
+    "keywords": ["maintenance", "care", "clean", "keep up"],
+    "answer": "Regular maintenance is crucial for safety and longevity. Key tasks include daily checks (brakes, motor sounds for power chairs), weekly checks (tire pressure), and monthly checks (nuts/bolts, frame, tires, casters). Cleaning regularly is also important. Would you like tips for power or manual wheelchairs?"
+  },
+  {
+    "keywords": ["power maintenance", "electric maintenance"],
+    "answer": "For power chairs, daily checks include shrouds, brakes, motor noise, and disengage levers. Weekly: check pneumatic tire pressure. Monthly: inspect nuts/bolts, frame, drive tires, casters, anti-tips, joystick, batteries/connections, and wiring. Always consult your manual."
+  },
+  {
+    "keywords": ["manual maintenance"],
+    "answer": "For manual chairs, daily checks include general cleaning, tire pressure (visual), and brakes. Weekly: check tire pressure accurately, spokes, and upholstery. Monthly: inspect nuts/bolts, frame, wheel alignment, casters, wheel bearings, axles, footrests, and armrests. Lubricate moving parts periodically."
+  },
+  {
+    "keywords": ["tire pressure", "inflate tires"],
+    "answer": "Maintaining proper tire pressure (for pneumatic tires) is important for easier rolling and stability. Check weekly. For manual chairs, use a pressure gauge. For power chairs, press firmly; if it depresses more than ~5mm, add air. Use a bicycle or pneumatic pump."
+  },
+  {
+    "keywords": ["brakes"],
+    "answer": "Brakes are critical for safety. For manual chairs, ensure they lock securely and release smoothly. For power chairs, test daily to ensure they engage immediately when stopping. If you suspect any issues, contact a maintenance expert right away."
+  },
+  {
+    "keywords": ["cleaning", "clean wheelchair"],
+    "answer": "Regular cleaning is important. Wipe down the frame and upholstery with a damp cloth and mild detergent. For specific stains, consult your user manual. Keep casters free of hair and debris."
+  },
+  {
+    "keywords": ["thank you", "thanks"],
+    "answer": "You're welcome! Let me know if you have any other questions."
+  },
+  {
+    "keywords": ["bye", "goodbye"],
+    "answer": "Goodbye! Feel free to return if you need more help."
+  }
+]
+

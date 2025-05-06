@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Leaflet CSS globally */
+@import "leaflet/dist/leaflet.css";
+/* Removed react-leaflet-markercluster CSS import */
+
+/* Add any global styles here */
+body {
+  /* Example global style */
+  /* background-color: #f0f0f0; */
+}
+
+/* Custom styles for marker cluster if needed (adjust class names for react-leaflet-cluster if necessary) */
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background-color: rgba(181, 226, 140, 0.6);
+}
+
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background-color: rgba(241, 211, 87, 0.6);
+}
+
